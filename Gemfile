@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'mini_racer'
 
+# Devise Gemfile from "getting started"
+gem 'devise'
+
 # Use ActiveStorage variant
 group :production do
   gem 'pg', '~> 0.21' # for Heroku deployment

@@ -27,6 +27,11 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'mini_racer'
 
+#bootstrap gemfile for Prettiness
+gem 'bootstrap', '~> 4.6.0'
+#Adding jQuery 
+gem 'jquery-rails'
+
 # Devise Gemfile from "getting started"
 gem 'devise'
 
